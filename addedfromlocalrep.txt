@@ -28,4 +28,4 @@ Included plugins:
 Updater (Installer only):
 
 * WinGup v4.1branch1
-Some text
+Some textlet's see changes in file
